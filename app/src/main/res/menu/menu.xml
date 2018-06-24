@@ -1,0 +1,39 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.StretchSense.stretchsenselibrary.StretchSenseActivity" >
+
+
+ <item
+     android:id="@+id/Filtering"
+     android:icon="@android:drawable/ic_menu_search"
+     android:title="@string/filtering"
+     app:showAsAction="never"
+     />
+
+
+ <item
+     android:id="@+id/Share"
+     android:icon="@drawable/ic_menu_share_holo_white"
+     android:title="Share"
+     app:showAsAction="always"
+     />
+
+ <item
+     android:id="@+id/bluetoothscan"
+     android:title="Bluetooth"
+     android:icon="@drawable/ic_action_bluetooth"
+     app:showAsAction="always"
+     />
+
+
+ <item
+     android:id="@+id/dataLogging"
+     android:title="Logging"
+     android:icon="@drawable/ic_action_save"
+     app:showAsAction="always"
+  />
+
+
+
+</menu>

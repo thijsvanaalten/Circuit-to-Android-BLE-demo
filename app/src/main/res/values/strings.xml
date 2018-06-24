@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">10ChannelBLE Demo</string>
+    <string name="filtering">Filter</string>
+    <string name="application_deprecated_msg"><![CDATA[<string name=\"application_deprecated_msg\">* Please note we will stop supporting this application from: {Date}</string>]]></string>
+</resources>

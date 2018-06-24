@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.StretchSense.stretchsenselibrary.StretchSenseActivity" >
+
+     <item android:id="@+id/connect"
+          android:icon="@drawable/ic_action_bluetooth"
+          android:title="BT Connect" 
+          app:showAsAction="always"
+          />
+     <item android:id="@+id/logging"
+          android:icon="@drawable/ic_action_save"
+          android:title="logData" 
+          app:showAsAction="always"/>
+      
+     <item android:id="@+id/Polynomial"
+          android:icon="@drawable/polynomial"
+          android:title="Polynomial" 
+          app:showAsAction="always"/>
+     
+    <item android:id="@+id/SampleRate"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/sampling_rate" />  
+    <item android:id="@+id/Filtering"
+          android:icon="@android:drawable/ic_menu_search"
+          android:title="@string/filtering" />
+  
+</menu>
