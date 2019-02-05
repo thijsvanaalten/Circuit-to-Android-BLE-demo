@@ -7,7 +7,7 @@ StretchSense is a global supplier of soft and stretchy sensors. These sensors ar
 The StretchSense Android API has been developed to demonstrate how to establish a connection between a StretchSense Fabric Evaluation circuit and a Bluetooth Low Energy (BLE)  enabled Android device. This platform was developed using android Studio 2.1.2 in Java with a gradle defaultConfig minSdkVersion 19 and a targetSdkVersion 22. 
 
 ### Usage
-The single circuit connection application demonstrates how to use the StretchSense BLE Android Library by stepping through the connection process by way of a list of button elements tied to core library functions.
+The single circuit connection application demonstrates how to use the StretchSense BLE Android library by stepping through the connection process by way of a list of button elements tied to core library functions.
 Buttons:
 StartScanning: Start scanning for a new sensor for 20 seconds.
 The red label at the bottom of the screen displays the connection status of the sensor. 
