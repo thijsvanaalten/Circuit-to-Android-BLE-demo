@@ -18,7 +18,7 @@ The red label at the bottom of the screen displays the connection status of the 
 This library has been developed exclusively for Bluetooth 4.0 (BLE), also known as Bluetooth Low Energy. Compatible devices and sensors are listed below. 
 
 ### StretchSense
-Only the StretchSense Fabric Evaluation circuit is compatible with the support library. 
+This support library is compatible with the StretchSense Fabric Evaluation circuit only. 
 
 ### Android
 BLE was first introduced in 2012 and requires a minimum operating system version of Android 4.3
