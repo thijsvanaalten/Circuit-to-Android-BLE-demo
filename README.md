@@ -1,4 +1,4 @@
-# Example 1 - Single Circuit Connection  
+# 10 channel circuit to Android BLE connection demo
 
 ## About
 StretchSense is a global supplier of soft and stretchy sensors. These sensors are perfect for measuring the complex movements of people and soft objects.
